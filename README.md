@@ -1,1 +1,2 @@
 # Vinamra
+Theory part
